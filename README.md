@@ -2,6 +2,10 @@
 
 This project will be an open-source, locally run AI thematic analysis tool powered by Google's Gemma. As such, this project will be a paired-down version of gemma_pytorch with instructions on how to run a thematic analysis on a text file or folder of text files.
 
+## Directions
+
+## Information from Gemma_Pytorch
+
 ## Gemma in PyTorch
 
 **Gemma** is a family of lightweight, state-of-the art open models built from research and technology used to create Google Gemini models. They are text-to-text, decoder-only large language models, available in English, with open weights, pre-trained variants, and instruction-tuned variants. For more details, please check out the following links:
