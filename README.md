@@ -5,10 +5,12 @@ This project will be an open-source, locally run AI thematic analysis tool power
 Ideally, this will run as a discrete program through a command line.
 
 ## Methods
-Uses a .csv or .xls file as input
-Creates variables num_loops, chunk_length
-Uses a prompt such as "Identify x number of themes from the following text"
-Creates num_loops number of .txt files to run individually as prompts
+- Uses a .csv or .xls file as input
+- Creates variables num_loops, chunk_length
+- Uses a prompt such as "Identify x number of themes from the following text"
+- Creates num_loops number of .txt files to run individually as prompts
+
+### Steps
 
 - Input data by pointing to a .csv or .xls file
 - Calculate the word count
