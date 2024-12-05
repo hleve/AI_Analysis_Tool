@@ -1,4 +1,4 @@
-# AI Thematic Analysis Tool
+# AI Analysis Tool
 
 This project will be an open-source, locally run AI thematic analysis tool powered by Google's Gemma. As such, this project will be a paired-down version of gemma_pytorch with instructions on how to run a thematic analysis on a text file or folder of text files.
 
