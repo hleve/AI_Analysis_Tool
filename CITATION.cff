@@ -4,7 +4,7 @@ authors:
 - family-names: "Levesque"
   given-names: "Henry"
   orcid: "https://orcid.org/0009-0008-5636-1143"
-title: "AI_Thematic_Analysis_Tool"
+title: "AI_Analysis_Tool"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2024-10-14
