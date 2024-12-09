@@ -15,7 +15,7 @@ Ideally, this will run as a discrete program through a command line.
 - Input data by pointing to a .csv or .xls file
 - Calculate the word count
 - Divide the word count by the length the llm can handle to get the number of loops
-- input the prompt "identify 'x' themes from the following text
+- input the prompt "identify 'x' themes from the following text"
 - split data into loops and write as txt files with each txt file named chunk_n and ad 1 to n for each consecutive chunk
 - run prompt and file name through the llm in a loop num_loop times
 - print results to Excel for manual processing
